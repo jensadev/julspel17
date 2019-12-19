@@ -1,0 +1,11 @@
+body {
+    background-color: #1c0030;
+    overflow-x: hidden;
+}
+
+#bg {
+    position: absolute;
+    z-index: -1;
+    left: 0;
+    top: 0;
+}
